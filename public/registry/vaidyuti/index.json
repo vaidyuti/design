@@ -1,0 +1,717 @@
+[
+  {
+    "name": "unicode-spinner",
+    "type": "registry:ui",
+    "dependencies": [
+      "class-variance-authority"
+    ],
+    "files": [
+      "registry/vaidyuti/unicode-spinner/unicode-spinner.tsx"
+    ]
+  },
+  {
+    "name": "typography",
+    "type": "registry:ui",
+    "files": [
+      "registry/vaidyuti/typography/typography.tsx"
+    ]
+  },
+  {
+    "name": "tooltip",
+    "type": "registry:ui",
+    "dependencies": [
+      "radix-ui"
+    ],
+    "files": [
+      "registry/vaidyuti/tooltip/tooltip.tsx"
+    ]
+  },
+  {
+    "name": "toggle",
+    "type": "registry:ui",
+    "dependencies": [
+      "radix-ui",
+      "class-variance-authority"
+    ],
+    "files": [
+      "registry/vaidyuti/toggle/toggle.tsx"
+    ]
+  },
+  {
+    "name": "toggle-group",
+    "type": "registry:ui",
+    "dependencies": [
+      "radix-ui",
+      "class-variance-authority"
+    ],
+    "files": [
+      "registry/vaidyuti/toggle-group/toggle-group.tsx"
+    ]
+  },
+  {
+    "name": "textarea",
+    "type": "registry:ui",
+    "files": [
+      "registry/vaidyuti/textarea/textarea.tsx"
+    ]
+  },
+  {
+    "name": "tabs",
+    "type": "registry:ui",
+    "dependencies": [
+      "radix-ui",
+      "class-variance-authority"
+    ],
+    "files": [
+      "registry/vaidyuti/tabs/tabs.tsx"
+    ]
+  },
+  {
+    "name": "table",
+    "type": "registry:ui",
+    "dependencies": [
+      "none"
+    ],
+    "files": [
+      "registry/vaidyuti/table/table.tsx"
+    ]
+  },
+  {
+    "name": "switch",
+    "type": "registry:ui",
+    "dependencies": [
+      "radix-ui",
+      "lucide-react"
+    ],
+    "files": [
+      "registry/vaidyuti/switch/switch.tsx"
+    ]
+  },
+  {
+    "name": "studio-sidebar",
+    "type": "registry:ui",
+    "dependencies": [
+      "radix-ui",
+      "class-variance-authority",
+      "lucide-react"
+    ],
+    "files": [
+      "registry/vaidyuti/studio-sidebar/studio-sidebar.tsx"
+    ]
+  },
+  {
+    "name": "spinner",
+    "type": "registry:ui",
+    "dependencies": [
+      "class-variance-authority",
+      "lucide-react"
+    ],
+    "files": [
+      "registry/vaidyuti/spinner/spinner.tsx"
+    ]
+  },
+  {
+    "name": "sonner",
+    "type": "registry:ui",
+    "dependencies": [
+      "sonner",
+      "next-themes",
+      "lucide-react"
+    ],
+    "files": [
+      "registry/vaidyuti/sonner/sonner.tsx"
+    ]
+  },
+  {
+    "name": "slider",
+    "type": "registry:ui",
+    "dependencies": [
+      "radix-ui"
+    ],
+    "files": [
+      "registry/vaidyuti/slider/slider.tsx"
+    ]
+  },
+  {
+    "name": "skeleton",
+    "type": "registry:ui",
+    "dependencies": [
+      "none"
+    ],
+    "files": [
+      "registry/vaidyuti/skeleton/skeleton.tsx"
+    ]
+  },
+  {
+    "name": "sidebar",
+    "type": "registry:ui",
+    "dependencies": [
+      "radix-ui",
+      "class-variance-authority",
+      "lucide-react"
+    ],
+    "files": [
+      "registry/vaidyuti/sidebar/sidebar.tsx"
+    ]
+  },
+  {
+    "name": "sheet",
+    "type": "registry:ui",
+    "dependencies": [
+      "radix-ui",
+      "class-variance-authority",
+      "lucide-react"
+    ],
+    "files": [
+      "registry/vaidyuti/sheet/sheet.tsx"
+    ]
+  },
+  {
+    "name": "separator",
+    "type": "registry:ui",
+    "dependencies": [
+      "radix-ui",
+      "class-variance-authority"
+    ],
+    "files": [
+      "registry/vaidyuti/separator/separator.tsx"
+    ]
+  },
+  {
+    "name": "select",
+    "type": "registry:ui",
+    "dependencies": [
+      "radix-ui",
+      "lucide-react"
+    ],
+    "files": [
+      "registry/vaidyuti/select/select.tsx"
+    ]
+  },
+  {
+    "name": "scroll-area",
+    "type": "registry:ui",
+    "dependencies": [
+      "radix-ui"
+    ],
+    "files": [
+      "registry/vaidyuti/scroll-area/scroll-area.tsx"
+    ]
+  },
+  {
+    "name": "resizable",
+    "type": "registry:ui",
+    "dependencies": [
+      "react-resizable-panels"
+    ],
+    "files": [
+      "registry/vaidyuti/resizable/resizable.tsx"
+    ]
+  },
+  {
+    "name": "radio-group",
+    "type": "registry:ui",
+    "dependencies": [
+      "radix-ui"
+    ],
+    "files": [
+      "registry/vaidyuti/radio-group/radio-group.tsx"
+    ]
+  },
+  {
+    "name": "progress",
+    "type": "registry:ui",
+    "dependencies": [
+      "radix-ui"
+    ],
+    "files": [
+      "registry/vaidyuti/progress/progress.tsx"
+    ]
+  },
+  {
+    "name": "popover",
+    "type": "registry:ui",
+    "dependencies": [
+      "radix-ui"
+    ],
+    "files": [
+      "registry/vaidyuti/popover/popover.tsx"
+    ]
+  },
+  {
+    "name": "pixel-spinner",
+    "type": "registry:ui",
+    "dependencies": [
+      "class-variance-authority"
+    ],
+    "files": [
+      "registry/vaidyuti/pixel-spinner/pixel-spinner.tsx"
+    ]
+  },
+  {
+    "name": "pagination",
+    "type": "registry:ui",
+    "dependencies": [
+      "lucide-react"
+    ],
+    "files": [
+      "registry/vaidyuti/pagination/pagination.tsx"
+    ]
+  },
+  {
+    "name": "navigation-menu",
+    "type": "registry:ui",
+    "dependencies": [
+      "radix-ui",
+      "lucide-react",
+      "class-variance-authority"
+    ],
+    "files": [
+      "registry/vaidyuti/navigation-menu/navigation-menu.tsx"
+    ]
+  },
+  {
+    "name": "native-select",
+    "type": "registry:ui",
+    "dependencies": [
+      "lucide-react"
+    ],
+    "files": [
+      "registry/vaidyuti/native-select/native-select.tsx"
+    ]
+  },
+  {
+    "name": "menubar",
+    "type": "registry:ui",
+    "dependencies": [
+      "radix-ui",
+      "lucide-react"
+    ],
+    "files": [
+      "registry/vaidyuti/menubar/menubar.tsx"
+    ]
+  },
+  {
+    "name": "label",
+    "type": "registry:ui",
+    "dependencies": [
+      "radix-ui",
+      "class-variance-authority"
+    ],
+    "files": [
+      "registry/vaidyuti/label/label.tsx"
+    ]
+  },
+  {
+    "name": "kbd",
+    "type": "registry:ui",
+    "dependencies": [
+      "class-variance-authority"
+    ],
+    "files": [
+      "registry/vaidyuti/kbd/kbd.tsx"
+    ]
+  },
+  {
+    "name": "item",
+    "type": "registry:ui",
+    "dependencies": [
+      "none",
+      "class-variance-authority",
+      "radix-ui"
+    ],
+    "files": [
+      "registry/vaidyuti/item/item.tsx"
+    ]
+  },
+  {
+    "name": "input",
+    "type": "registry:ui",
+    "dependencies": [
+      "none"
+    ],
+    "files": [
+      "registry/vaidyuti/input/input.tsx"
+    ]
+  },
+  {
+    "name": "input-otp",
+    "type": "registry:ui",
+    "dependencies": [
+      "input-otp",
+      "lucide-react"
+    ],
+    "files": [
+      "registry/vaidyuti/input-otp/input-otp.tsx"
+    ]
+  },
+  {
+    "name": "input-group",
+    "type": "registry:ui",
+    "dependencies": [
+      "none",
+      "class-variance-authority"
+    ],
+    "files": [
+      "registry/vaidyuti/input-group/input-group.tsx"
+    ]
+  },
+  {
+    "name": "indicator",
+    "type": "registry:ui",
+    "dependencies": [
+      "class-variance-authority"
+    ],
+    "files": [
+      "registry/vaidyuti/indicator/indicator.tsx"
+    ]
+  },
+  {
+    "name": "hover-card",
+    "type": "registry:ui",
+    "dependencies": [
+      "radix-ui"
+    ],
+    "files": [
+      "registry/vaidyuti/hover-card/hover-card.tsx"
+    ]
+  },
+  {
+    "name": "frame",
+    "type": "registry:ui",
+    "dependencies": [
+      "class-variance-authority"
+    ],
+    "files": [
+      "registry/vaidyuti/frame/frame.tsx"
+    ]
+  },
+  {
+    "name": "filters",
+    "type": "registry:ui",
+    "dependencies": [
+      "class-variance-authority",
+      "lucide-react"
+    ],
+    "files": [
+      "registry/vaidyuti/filters/filters.tsx"
+    ]
+  },
+  {
+    "name": "field",
+    "type": "registry:ui",
+    "dependencies": [
+      "radix-ui",
+      "class-variance-authority",
+      "lucide-react"
+    ],
+    "files": [
+      "registry/vaidyuti/field/field.tsx"
+    ]
+  },
+  {
+    "name": "empty",
+    "type": "registry:ui",
+    "dependencies": [
+      "lucide-react",
+      "class-variance-authority"
+    ],
+    "files": [
+      "registry/vaidyuti/empty/empty.tsx"
+    ]
+  },
+  {
+    "name": "dropdown-menu",
+    "type": "registry:ui",
+    "dependencies": [
+      "radix-ui",
+      "lucide-react"
+    ],
+    "files": [
+      "registry/vaidyuti/dropdown-menu/dropdown-menu.tsx"
+    ]
+  },
+  {
+    "name": "drawer",
+    "type": "registry:ui",
+    "dependencies": [
+      "vaul",
+      "lucide-react",
+      "button"
+    ],
+    "files": [
+      "registry/vaidyuti/drawer/drawer.tsx"
+    ]
+  },
+  {
+    "name": "dotted-divider",
+    "type": "registry:ui",
+    "files": [
+      "registry/vaidyuti/dotted-divider/dotted-divider.tsx"
+    ]
+  },
+  {
+    "name": "dialog",
+    "type": "registry:ui",
+    "dependencies": [
+      "radix-ui",
+      "lucide-react"
+    ],
+    "files": [
+      "registry/vaidyuti/dialog/dialog.tsx"
+    ]
+  },
+  {
+    "name": "date-picker",
+    "type": "registry:ui",
+    "dependencies": [
+      "date-fns",
+      "react-day-picker",
+      "lucide-react"
+    ],
+    "files": [
+      "registry/vaidyuti/date-picker/date-picker.tsx"
+    ]
+  },
+  {
+    "name": "data-table",
+    "type": "registry:ui",
+    "dependencies": [
+      "@tanstack/react-table",
+      "lucide-react"
+    ],
+    "files": [
+      "registry/vaidyuti/data-table/data-table.tsx"
+    ]
+  },
+  {
+    "name": "context-menu",
+    "type": "registry:ui",
+    "dependencies": [
+      "radix-ui",
+      "lucide-react"
+    ],
+    "files": [
+      "registry/vaidyuti/context-menu/context-menu.tsx"
+    ]
+  },
+  {
+    "name": "command",
+    "type": "registry:ui",
+    "dependencies": [
+      "cmdk",
+      "radix-ui",
+      "vaul",
+      "lucide-react"
+    ],
+    "files": [
+      "registry/vaidyuti/command/command.tsx"
+    ]
+  },
+  {
+    "name": "combobox",
+    "type": "registry:ui",
+    "dependencies": [
+      "@base-ui/react",
+      "radix-ui",
+      "lucide-react"
+    ],
+    "files": [
+      "registry/vaidyuti/combobox/combobox.tsx"
+    ]
+  },
+  {
+    "name": "collapsible",
+    "type": "registry:ui",
+    "dependencies": [
+      "radix-ui"
+    ],
+    "files": [
+      "registry/vaidyuti/collapsible/collapsible.tsx"
+    ]
+  },
+  {
+    "name": "checkbox",
+    "type": "registry:ui",
+    "dependencies": [
+      "radix-ui",
+      "class-variance-authority",
+      "lucide-react"
+    ],
+    "files": [
+      "registry/vaidyuti/checkbox/checkbox.tsx"
+    ]
+  },
+  {
+    "name": "chart",
+    "type": "registry:ui",
+    "dependencies": [
+      "recharts"
+    ],
+    "files": [
+      "registry/vaidyuti/chart/chart.tsx"
+    ]
+  },
+  {
+    "name": "carousel",
+    "type": "registry:ui",
+    "dependencies": [
+      "embla-carousel-react",
+      "lucide-react"
+    ],
+    "files": [
+      "registry/vaidyuti/carousel/carousel.tsx"
+    ]
+  },
+  {
+    "name": "card",
+    "type": "registry:ui",
+    "files": [
+      "registry/vaidyuti/card/card.tsx"
+    ]
+  },
+  {
+    "name": "calendar",
+    "type": "registry:ui",
+    "dependencies": [
+      "react-day-picker",
+      "date-fns",
+      "lucide-react"
+    ],
+    "files": [
+      "registry/vaidyuti/calendar/calendar.tsx"
+    ]
+  },
+  {
+    "name": "button",
+    "type": "registry:ui",
+    "dependencies": [
+      "radix-ui",
+      "class-variance-authority"
+    ],
+    "files": [
+      "registry/vaidyuti/button/button.tsx"
+    ]
+  },
+  {
+    "name": "button-group",
+    "type": "registry:ui",
+    "dependencies": [
+      "class-variance-authority",
+      "radix-ui"
+    ],
+    "files": [
+      "registry/vaidyuti/button-group/button-group.tsx"
+    ]
+  },
+  {
+    "name": "breadcrumb",
+    "type": "registry:ui",
+    "dependencies": [
+      "radix-ui",
+      "lucide-react"
+    ],
+    "files": [
+      "registry/vaidyuti/breadcrumb/breadcrumb.tsx"
+    ]
+  },
+  {
+    "name": "badge",
+    "type": "registry:ui",
+    "dependencies": [
+      "class-variance-authority",
+      "lucide-react",
+      "radix-ui"
+    ],
+    "files": [
+      "registry/vaidyuti/badge/badge.tsx"
+    ]
+  },
+  {
+    "name": "avatar",
+    "type": "registry:ui",
+    "dependencies": [
+      "class-variance-authority",
+      "radix-ui"
+    ],
+    "files": [
+      "registry/vaidyuti/avatar/avatar.tsx"
+    ]
+  },
+  {
+    "name": "aspect-ratio",
+    "type": "registry:ui",
+    "dependencies": [
+      "radix-ui"
+    ],
+    "files": [
+      "registry/vaidyuti/aspect-ratio/aspect-ratio.tsx"
+    ]
+  },
+  {
+    "name": "alert",
+    "type": "registry:ui",
+    "dependencies": [
+      "class-variance-authority"
+    ],
+    "files": [
+      "registry/vaidyuti/alert/alert.tsx"
+    ]
+  },
+  {
+    "name": "alert-dialog",
+    "type": "registry:ui",
+    "dependencies": [
+      "radix-ui"
+    ],
+    "files": [
+      "registry/vaidyuti/alert-dialog/alert-dialog.tsx"
+    ]
+  },
+  {
+    "name": "accordion",
+    "type": "registry:ui",
+    "dependencies": [
+      "radix-ui",
+      "lucide-react"
+    ],
+    "files": [
+      "registry/vaidyuti/accordion/accordion.tsx"
+    ]
+  },
+  {
+    "name": "use-scroll-restoration",
+    "type": "registry:ui",
+    "files": [
+      "registry/vaidyuti/use-scroll-restoration/use-scroll-restoration.ts"
+    ]
+  },
+  {
+    "name": "use-mobile",
+    "type": "registry:ui",
+    "files": [
+      "registry/vaidyuti/use-mobile/use-mobile.ts"
+    ]
+  },
+  {
+    "name": "use-media-query",
+    "type": "registry:ui",
+    "files": [
+      "registry/vaidyuti/use-media-query/use-media-query.ts"
+    ]
+  },
+  {
+    "name": "use-copy-to-clipboard",
+    "type": "registry:ui",
+    "files": [
+      "registry/vaidyuti/use-copy-to-clipboard/use-copy-to-clipboard.ts"
+    ]
+  },
+  {
+    "name": "use-auto-space",
+    "type": "registry:hook",
+    "files": [
+      "registry/vaidyuti/use-auto-space/use-auto-space.ts"
+    ]
+  }
+]
